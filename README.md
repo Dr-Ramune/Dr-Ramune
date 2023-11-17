@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dr-Ramune, Ben, or just Doctor
+- 👀 I’m interested in coding, pottery, pencil sketching, and homesteading
+- 🌱 I’m currently learning lua, c, and python3 code
+- 💞️ I’m looking to collaborate on anything that I may need help with :)
+- 📫 How to reach me you can find me on discord @ drramune or through my email benjamincwood536@gmail.com :)
